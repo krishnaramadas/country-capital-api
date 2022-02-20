@@ -38,7 +38,7 @@ https://virtualenv.pypa.io/en/stable/
    pip install Flask
    ```
 * ASGI server Uvicorn
-https://www.uvicorn.org/
+https://www.uvicorn.org/ <br/>
 or via
    ```sh
    pip install uvicorn
@@ -50,7 +50,7 @@ or via
    ```sh
    python3 -m venv python-env
    ```
- 2. Activate virtual environment
+ 2. Activate virtual environment <br/>
     On Windows
     ```sh
     python-env\Scripts\activate.bat
