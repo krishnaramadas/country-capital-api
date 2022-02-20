@@ -39,8 +39,6 @@ https://virtualenv.pypa.io/en/stable/
    ```
 * ASGI server Uvicorn
 https://www.uvicorn.org/
-<br>
-https://www.uvicorn.org/settings/
 or via
    ```sh
    pip install uvicorn
