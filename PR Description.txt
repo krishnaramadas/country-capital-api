@@ -1,0 +1,14 @@
+Customer Notification via Whatsapp
+
+#What?
+I've added support for authentication to implement Customer notification via whatsapp.
+
+#Why?
+These changes adds extra authetication to the user login and account creation experience
+
+#Notes
+Let's consider using a 3rd party authentication provider for this. Let's also consider breaking this out into its own service. 
+We can then re-use it or share the accounts with other apps in the future.
+
+#PR Reviewers
+Sathyam Tiwari, Amit Sinha (Lead)
