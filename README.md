@@ -1,4 +1,4 @@
-# country-capital
+# country-capital-api
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -29,7 +29,7 @@ https://example.com/country-capital/[query-params]
 that can be used by any project in the organization to consume this API.
 
 
-### Prerequisites
+## Prerequisites
 * Python 3.x
 * virtualenv 
 https://virtualenv.pypa.io/en/stable/
@@ -39,13 +39,14 @@ https://virtualenv.pypa.io/en/stable/
    ```
 * ASGI server Uvicorn
 https://www.uvicorn.org/
+<br>
 https://www.uvicorn.org/settings/
 or via
    ```sh
    pip install uvicorn
    ```
   
- ### Installation
+ ## Installation
 
 1. Creating virtual emvironment
    ```sh
@@ -87,7 +88,7 @@ or via
 ## Usage
 This API can connect developers to software featuring data concerning countries around the world.
 There is a microservice endpoint for this API available at
-	```sh
+    ```sh
      https://example.com/country-capital/<query-params>
     ``` 
 <p align="right">(<a href="#top">back to top</a>)</p>
