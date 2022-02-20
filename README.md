@@ -86,9 +86,8 @@ or via
 ## Usage
 This API can connect developers to software featuring data concerning countries around the world.
 There is a microservice endpoint for this API available at
-    ```sh
-     https://example.com/country-capital/<query-params>
-    ``` 
+https://example.com/country-capital/<query-params>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
